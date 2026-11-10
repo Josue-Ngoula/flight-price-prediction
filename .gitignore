@@ -1,0 +1,9 @@
+# Python
+**/.venv/
+**/__pycache__/
+
+# Model (too large for GitHub)
+artifacts/*.joblib
+
+# Windows download metadata
+*:Zone.Identifier
